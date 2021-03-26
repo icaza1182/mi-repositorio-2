@@ -10,4 +10,4 @@ var servidor=http.createServer(function(peticion,respuesta){
 
 //iciamos el servidor web
 servidor.listen(3000);
-console.log("ejecutando servicio web");
+console.log("Ejecutando servicio web");
